@@ -1,0 +1,24 @@
+{
+  "Companies": [
+    {
+      "Name": "Microsoft",
+      "StocksCount": 7441000000,
+      "StocksPrice": 334.27,
+      "EmployeesCount": 221000
+
+
+    },
+    {
+      "Name": "Apple",
+      "StocksCount": 15787154000,
+      "StocksPrice": 178.18,
+      "EmployeesCount": 164000
+    },
+    {
+      "Name": "Google",
+      "StocksCount": 12781000000,
+      "StocksPrice": 136.38,
+      "EmployeesCount": 179000
+    }
+  ]
+}

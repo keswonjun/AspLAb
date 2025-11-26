@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+	<Company>
+		<Name>Microsoft</Name>
+		<StocksCount>7441000000</StocksCount>
+		<StocksPrice>334.27</StocksPrice>
+		<EmployeesCount>221000</EmployeesCount>
+	</Company>
+	<Company>
+		<Name>Apple</Name>
+		<StocksCount>15787154000</StocksCount>
+		<StocksPrice>178.18</StocksPrice>
+		<EmployeesCount>164000</EmployeesCount>
+	</Company>
+	<Company>
+		<Name>Google</Name>
+		<StocksCount>12781000000</StocksCount>
+		<StocksPrice>136.38</StocksPrice>
+		<EmployeesCount>179000</EmployeesCount>
+	</Company>
+</Companies>
